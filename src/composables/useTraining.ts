@@ -60,7 +60,6 @@ export function useTraining() {
   return {
     currentJoke,
     stats,
-    hasVoted,
     hasTrainingData,
     setCurrentJoke,
     createNewJoke,

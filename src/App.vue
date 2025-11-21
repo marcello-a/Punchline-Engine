@@ -9,7 +9,6 @@ import { useLLMGeneration } from './composables/useLLMGeneration'
 const {
   currentJoke,
   stats,
-  hasVoted,
   hasTrainingData,
   setCurrentJoke,
   createNewJoke,
